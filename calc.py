@@ -4,7 +4,7 @@ import tkinter, decimal, math, string
 root = tkinter.Tk()
 root.title('calc')
 root.resizable(0, 0)
-root.geometry('320x350')
+root.geometry("320x256")
 global vartext
 global temp
 
